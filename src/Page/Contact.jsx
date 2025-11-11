@@ -17,7 +17,7 @@ function Contact() {
                     <input className='border w-[500px] h-[41px] rounded-xl px-5' type="email" placeholder='email' /><br /><br />
                     <input className='border w-[500px] h-[60px] rounded-xl px-5' type="message" placeholder='message' /><br /><br />
                 </div>
-                <button className='border w-[500px] h-[35px] rounded-xl bg-green-600'>
+                <button className='border w-[500px] h-[35px] rounded-xl bg-green-600 text-white'>
                     Send
                 </button>
             </section><hr className='mt-100 border-gray-300' />
